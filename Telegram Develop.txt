@@ -8,3 +8,4 @@ Telegram Development details
 
 4.Phots download section code creation
 Audio call sec creation
+Video call sec creation
